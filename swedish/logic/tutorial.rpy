@@ -4,337 +4,337 @@
 translate swedish CordEntrance_label_b9a07f28:
 
     # ch_Name "{i}(The academy is so big. How is it even possible to remember where to go?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Akademin är så stor. Hur är det ens möjligt att komma ihåg vart man ska?){/i}"
 
 # game/logic/tutorial.rpy:579
 translate swedish CordEntrance_label_3165fc11:
 
     # ch_Name "{i}(I think the guy going up the stairs is also a freshman.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jag tror killen som går upp för trappan också är en förstaårselev){/i}"
 
 # game/logic/tutorial.rpy:580
 translate swedish CordEntrance_label_016e0679:
 
     # ch_Name "{i}(But why is he going there? Should I follow him?){/i}"
-    ch_Name ""
+    ch_Name "{i}(Men varför går han dit? Borde jag följa efter honom?){/i}"
 
 # game/logic/tutorial.rpy:582
 translate swedish CordEntrance_label_d0e1233a:
 
     # Jacob "Where do you think you're going, Mr. Brown?"
-    Jacob ""
+    Jacob "Vart tror du att du är på väg, Mr. Brown?"
 
 # game/logic/tutorial.rpy:583
 translate swedish CordEntrance_label_4b7232ff:
 
     # Carter "Good afternoon, Mr. Frollo."
-    Carter ""
+    Carter "God dag, Mr. Frollo."
 
 # game/logic/tutorial.rpy:584
 translate swedish CordEntrance_label_77d471be:
 
     # Carter "Ehm... Where? Why..."
-    Carter ""
+    Carter "Erm.. Var? Varför..."
 
 # game/logic/tutorial.rpy:585
 translate swedish CordEntrance_label_00959311:
 
     # Carter "I mean, yeah, I was going to the libraries and to class."
-    Carter ""
+    Carter "Altså, ja, jag skulle till biblioteket och till lektionen."
 
 # game/logic/tutorial.rpy:586
 translate swedish CordEntrance_label_2950cae5:
 
     # Jacob "And what are you doing on the second floor, then?"
-    Jacob ""
+    Jacob "Och vad gjorde du då på andra våningen?"
 
 # game/logic/tutorial.rpy:588
 translate swedish CordEntrance_label_df5a3cec:
 
     # Carter "Isn't that where I need to go?"
-    Carter ""
+    Carter "Det är väll dit jag måste gå?"
 
 # game/logic/tutorial.rpy:589
 translate swedish CordEntrance_label_c3688de3:
 
     # Jacob "I thought Crowhive took bright students."
-    Jacob ""
+    Jacob "Jag trodde Crowhive tog smarta studenter"
 
 # game/logic/tutorial.rpy:590
 translate swedish CordEntrance_label_26ca3eeb:
 
     # Jacob "It's sad to see Jaina's standards fall so low."
-    Jacob ""
+    Jacob "Det är sorgligt att se Jainas normer falla så lågt."
 
 # game/logic/tutorial.rpy:591
 translate swedish CordEntrance_label_f96d3ac5:
 
     # Jacob "First-year students have no business being on the second floor of the academy."
-    Jacob ""
+    Jacob "Förstaårselever har inget med andra våningen av skolan att göra."
 
 # game/logic/tutorial.rpy:592
 translate swedish CordEntrance_label_d3703568:
 
     # Carter "But, sir..."
-    Carter ""
+    Carter "Men, herrn..."
 
 # game/logic/tutorial.rpy:593
 translate swedish CordEntrance_label_37219890:
 
     # Carter "Where should I go then?"
-    Carter ""
+    Carter "Vart borde jag gå då?"
 
 # game/logic/tutorial.rpy:595
 translate swedish CordEntrance_label_0fdab458:
 
     # Jacob "The entrance to the library and the classrooms is in the inner courtyard of the academy."
-    Jacob ""
+    Jacob "Ingången till biblioteket och klassrummen är vid innergården av skolan."
 
 # game/logic/tutorial.rpy:596
 translate swedish CordEntrance_label_824eb68a:
 
     # Jacob "To get there, just go through one of the two arches on either side of the stairs."
-    Jacob ""
+    Jacob "För att ta dig dit, gå bara genom en av de två stora portarna på båda sidor om trapporna."
 
 # game/logic/tutorial.rpy:597
 translate swedish CordEntrance_label_fca81d84:
 
     # Jacob "Then turn to left. You need the first door."
-    Jacob ""
+    Jacob "Sväng sedan till vänster. Ta sedan den första dörren."
 
 # game/logic/tutorial.rpy:598
 translate swedish CordEntrance_label_4d0a14f3:
 
     # Carter "But there are so many arches..."
-    Carter ""
+    Carter "Men det finns så många portar..."
 
 # game/logic/tutorial.rpy:599
 translate swedish CordEntrance_label_b7843e2d:
 
     # Jacob "You're a messed up case, aren't you?"
-    Jacob ""
+    Jacob "Du är lite trög, va?"
 
 # game/logic/tutorial.rpy:601
 translate swedish CordEntrance_label_0313eace:
 
     # Jacob "You need those arches over there. "
-    Jacob ""
+    Jacob "Det är de portarna där borta."
 
 # game/logic/tutorial.rpy:602
 translate swedish CordEntrance_label_29142250:
 
     # Jacob "If you look from the entrance to the academy, they're straight ahead."
-    Jacob ""
+    Jacob "Om du tittar från ingången till skolan, så är de rakt fram."
 
 # game/logic/tutorial.rpy:603
 translate swedish CordEntrance_label_afff9aa0:
 
     # Jacob "I hope you can work it out from there, you were there when you took your exam."
-    Jacob ""
+    Jacob "Jag hoppas du kan lista ut det därifrån, du var där när du tog ditt test."
 
 # game/logic/tutorial.rpy:604
 translate swedish CordEntrance_label_f5190618:
 
     # Jacob "Do you understand?"
-    Jacob ""
+    Jacob "Förstår du?"
 
 # game/logic/tutorial.rpy:606
 translate swedish CordEntrance_label_91729c82:
 
     # Carter "I think so."
-    Carter ""
+    Carter "Jag tror det."
 
 # game/logic/tutorial.rpy:607
 translate swedish CordEntrance_label_4614f3ee:
 
     # Carter "Thank you for your help."
-    Carter ""
+    Carter "Tack för hjälpen."
 
 # game/logic/tutorial.rpy:608
 translate swedish CordEntrance_label_bc91fdd7:
 
     # Jacob "Don't mention it. Try to be more attentive, Mr Brown."
-    Jacob ""
+    Jacob "Det var så lite. Försök var mer uppmärksam, Mr. Brown."
 
 # game/logic/tutorial.rpy:609
 translate swedish CordEntrance_label_a8ebf1f0:
 
     # Jacob "The rules are there for a reason. It would be a shame to get expelled for such foolishness."
-    Jacob ""
+    Jacob "Reglerna finns av en andledning. Det hade varit synd att bli avstängd för såna dumheter."
 
 # game/logic/tutorial.rpy:610
 translate swedish CordEntrance_label_7d6017ea:
 
     # Carter "Yes, sir."
-    Carter ""
+    Carter "Ja, Herrn."
 
 # game/logic/tutorial.rpy:612
 translate swedish CordEntrance_label_b2235bb4:
 
     # ch_Name "{i}(Phew, it's a good thing I didn't have time to follow him.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Phew, det är bra att jag inte hade tid att följa efter honom.){/i}"
 
 # game/logic/tutorial.rpy:613
 translate swedish CordEntrance_label_7ca1a037:
 
     # ch_Name "{i}(Or I'd have gotten my ass kicked by Jacob.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Eller så hade jag fått skit av Jacob.){/i}"
 
 # game/logic/tutorial.rpy:614
 translate swedish CordEntrance_label_4ed7d299:
 
     # ch_Name "{i}(I wonder what's on the second floor that students aren't allowed up there.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jag undrar vad det är på andra våningen som gör att elever inte får vara där.){/i}"
 
 # game/logic/tutorial.rpy:615
 translate swedish CordEntrance_label_89fc7eb8:
 
     # ch_Name "{i}(Okay, I'll leave that out of my head now.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Okej, Jag slutar tänka på det nu.){/i}"
 
 # game/logic/tutorial.rpy:617
 translate swedish CordEntrance_label_a185157a:
 
     # ch_Name "{i}(I have so much to do before school starts.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Jag har så mycket att göra innan skolan börjar.){/i}"
 
 # game/logic/tutorial.rpy:618
 translate swedish CordEntrance_label_478994c0:
 
     # ch_Name "{i}(And first of all - learn how not to get lost here.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Och först av allt - att lära mig hur man inte går vilse här.){/i}"
 
 # game/logic/tutorial.rpy:619
 translate swedish CordEntrance_label_53648e18:
 
     # ch_Name "{i}(There are entrances to the garden on either side of the stairs.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Det finns dörrar till gården på böda sidor av trapporna.){/i}"
 
 # game/logic/tutorial.rpy:620
 translate swedish CordEntrance_label_f3ca9d12:
 
     # ch_Name "{i}(And that's all I need to know during my first year.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Och det är allt jag behöver veta för mitt första år.){/i}"
 
 # game/logic/tutorial.rpy:633
 translate swedish CordGarden_label_e389e50c:
 
     # ch_Name "{i}(Well, here it is. The inner garden.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Så, här är det. Innergården.){/i}"
 
 # game/logic/tutorial.rpy:634
 translate swedish CordGarden_label_a89f8e02:
 
     # ch_Name "{i}(This place has a lot of doors and no signs whatsoever.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Det här stället har många dörrar och inga skyltar någonstans.){/i}"
 
 # game/logic/tutorial.rpy:636
 translate swedish CordGarden_label_0526f213:
 
     # Joshi "Hey there!"
-    Joshi ""
+    Joshi "Hallå där!"
 
 # game/logic/tutorial.rpy:637
 translate swedish CordGarden_label_b9a2f748:
 
     # Joshi "Elijah?"
-    Joshi ""
+    Joshi "Elijah?"
 
 # game/logic/tutorial.rpy:638
 translate swedish CordGarden_label_d2b75454:
 
     # ch_Name "No, my name is [Name]. Why are you looking for Elijah?"
-    ch_Name ""
+    ch_Name "Nej, jag heter [Name]. Varför letar du efter Elijah?"
 
 # game/logic/tutorial.rpy:639
 translate swedish CordGarden_label_6a8823d6:
 
     # Joshi "Nevermind. Some business."
-    Joshi ""
+    Joshi "Det var inget. Skulle prata med han bara."
 
 # game/logic/tutorial.rpy:641
 translate swedish CordGarden_label_73f50c33:
 
     # Joshi "Wanna smoke?"
-    Joshi ""
+    Joshi "Vill du ha en cigg?"
 
 # game/logic/tutorial.rpy:642
 translate swedish CordGarden_label_ab7c8a20:
 
     # ch_Name "I didn't know you could smoke in here."
-    ch_Name ""
+    ch_Name "Jag visste inte att man kunde röka här inne."
 
 # game/logic/tutorial.rpy:643
 translate swedish CordGarden_label_760df6d7:
 
     # Joshi "You can, as long as none of the teachers are watching."
-    Joshi ""
+    Joshi "Det kan du, så länge ingen av lärarna kollar."
 
 # game/logic/tutorial.rpy:647
 translate swedish CordGarden_label_0a4f54a9:
 
     # ch_Name "{i}(Hmm. Why not? I'm done with my sports career anyway.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Hmm. Varför inte? Jag är klar med min sportkarriär ändån.){/i}"
 
 # game/logic/tutorial.rpy:649
 translate swedish CordGarden_label_6351b055:
 
     # ch_Name "I'll take it! Thanks."
-    ch_Name ""
+    ch_Name "Jag tar gärna en! Tack."
 
 # game/logic/tutorial.rpy:650
 translate swedish CordGarden_label_2c25e386:
 
     # Joshi "Let me give you a light."
-    Joshi ""
+    Joshi "Låt mig tända åt dig."
 
 # game/logic/tutorial.rpy:651
 translate swedish CordGarden_label_2f97a81b:
 
     # Joshi "No problem. I don't like smoking alone."
-    Joshi ""
+    Joshi "Varsågod. Jag gillar inte att röka ensam."
 
 # game/logic/tutorial.rpy:652
 translate swedish CordGarden_label_2f80a538:
 
     # ch_Name "{i}(Strange guy.){/i}"
-    ch_Name ""
+    ch_Name "{i}(Konstig kille.){/i}"
 
 # game/logic/tutorial.rpy:654
 translate swedish CordGarden_label_a1d2923d:
 
     # Joshi "Listen, can I ask your opinion?"
-    Joshi ""
+    Joshi "Kan jag fråga vad du tycker om en grej?"
 
 # game/logic/tutorial.rpy:655
 translate swedish CordGarden_label_6e34bba6:
 
     # ch_Name "Go ahead."
-    ch_Name ""
+    ch_Name "Visst."
 
 # game/logic/tutorial.rpy:656
 translate swedish CordGarden_label_7ad82520:
 
     # Joshi "Don't you think this place could use an upgrade?"
-    Joshi ""
+    Joshi "Tycker du inte det här stället behöver fixas till?"
 
 # game/logic/tutorial.rpy:657
 translate swedish CordGarden_label_79f00acd:
 
     # ch_Name "Depends on what you're talking about."
-    ch_Name ""
+    ch_Name "Det beror på exakt vad du menar."
 
 # game/logic/tutorial.rpy:658
 translate swedish CordGarden_label_9234c432:
 
     # Joshi "I mean, it's a hell of a place to find something."
-    Joshi ""
+    Joshi "Jag menar, det är ett helvete att hitta grejer här."
 
 # game/logic/tutorial.rpy:660
 translate swedish CordGarden_label_42f18015:
 
     # Joshi "Not a sign, not a map, like the supermarkets."
-    Joshi ""
+    Joshi "Inga skyltar, och inga kartor som på köpcentrum."
 
 # game/logic/tutorial.rpy:661
 translate swedish CordGarden_label_94f22a93:
